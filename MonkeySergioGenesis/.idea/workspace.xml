@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5cf57ff-7a85-45ce-a67c-fd8d2d70d2e3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MonkeyGS$Principal.coverage" NAME="Principal Coverage Results" MODIFIED="1525535373949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Vista.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MiniPython$Principal.coverage" NAME="Principal Coverage Results" MODIFIED="1490925427923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Vista.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MyParser.g4" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Antlr/MyParser.g4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interpreter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interpreter/Interpreter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="518" column="5" lean-forward="true" selection-start-line="518" selection-start-column="5" selection-end-line="518" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Principal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Vista/Principal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="369" column="76" selection-start-line="369" selection-start-column="76" selection-end-line="369" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2104#2112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Principal.form" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Vista/Principal.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+      <file leaf-file-name="DataStorage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interpreter/DataStorage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codigo.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codigo.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pearrfu</find>
+      <find>llena</find>
+      <find>arrp</find>
+      <find>pearrf</find>
+      <find>pehash</find>
+      <find>data</find>
+      <find>hashcontn</find>
+      <find>pehashli</find>
+      <find>pehashlit</find>
+      <find>ac</find>
+      <find>eletaccnod</find>
+      <find>elementexpren</find>
+      <find>elemte</find>
+      <find>elemt</find>
+      <find>print</find>
+      <find>comparision</find>
+      <find>valor boo</find>
+      <find>ifexpn</find>
+      <find>peid</find>
+      <find>hashli</find>
+      <find>prin</find>
+      <find>funtlitnodo</find>
+      <find>funtlitn</find>
+      <find>defaultli</find>
+      <find>btncom</find>
+      <find>i.</find>
+      <find>checker c</find>
+      <find>baseer</find>
+      <find>btnco</find>
+      <find>funcion</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>i++</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Modelo/Archivitos.java" />
+        <option value="$PROJECT_DIR$/src/Antlr/DenterHelper.java" />
+        <option value="$PROJECT_DIR$/src/Modelo/Scanner.java" />
+        <option value="$PROJECT_DIR$/src/Modelo/generated/DenterOptions.java" />
+        <option value="$PROJECT_DIR$/src/Modelo/generated/Scanner.java" />
+        <option value="$PROJECT_DIR$/src/Modelo/generated/MyParser.java" />
+        <option value="$PROJECT_DIR$/src/generated/MyParser.java" />
+        <option value="$PROJECT_DIR$/src/Vista/PrettyPrint.java" />
+        <option value="$PROJECT_DIR$/src/generated/Main.java" />
+        <option value="$PROJECT_DIR$/src/generated/PrettyPrint.java" />
+        <option value="$PROJECT_DIR$/src/Modelo/MyTreeCellRenderer.java" />
+        <option value="$PROJECT_DIR$/src/Vista/TreeView.form" />
+        <option value="$PROJECT_DIR$/src/generated/TreeVisitorNode.java" />
+        <option value="$PROJECT_DIR$/src/generated/Scanner.java" />
+        <option value="$PROJECT_DIR$/src/Vista/TabPanel.java" />
+        <option value="$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/BufferedTokenStream.class" />
+        <option value="$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/javax/json/JsonException.class" />
+        <option value="$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/javax/json/JsonArray.class" />
+        <option value="$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/DefaultErrorStrategy.class" />
+        <option value="$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/BaseErrorListener.class" />
+        <option value="$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/ConsoleErrorListener.class" />
+        <option value="$PROJECT_DIR$/src/Vista/TreeView.java" />
+        <option value="$PROJECT_DIR$/src/Antlr/MyParser.g4" />
+        <option value="$PROJECT_DIR$/src/Modelo/TreeVisitorNode.java" />
+        <option value="$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.class" />
+        <option value="$PROJECT_DIR$/src/Exeptions/MyExeption.java" />
+        <option value="$PROJECT_DIR$/src/Exeptions/MyBaseErrorL.java" />
+        <option value="$PROJECT_DIR$/src/Exeptions/MyConsoleErrorL.java" />
+        <option value="$PROJECT_DIR$/src/Antlr/Scanner.g4" />
+        <option value="$PROJECT_DIR$/src/checker/SymTable.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/EvaluationStack.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/Hash.java" />
+        <option value="$PROJECT_DIR$/src/checker/Checker.java" />
+        <option value="$PROJECT_DIR$/src/Vista/Principal.form" />
+        <option value="$PROJECT_DIR$/src/interpreter/DataStorage.java" />
+        <option value="$PROJECT_DIR$/src/Vista/Principal.java" />
+        <option value="$PROJECT_DIR$/src/interpreter/Interpreter.java" />
+        <option value="$PROJECT_DIR$/codigo.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MonkeySergioGenesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MonkeySergioGenesis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MonkeySergioGenesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MonkeySergioGenesis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MonkeySergioGenesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MonkeySergioGenesis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="checker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MonkeySergioGenesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MonkeySergioGenesis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Imagenes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MonkeySergioGenesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MonkeySergioGenesis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MonkeySergioGenesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MonkeySergioGenesis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Modelo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MonkeySergioGenesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MonkeySergioGenesis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Vista" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="$PROJECT_DIR$/src/Antlr/MyParser.g4::/auto-gen" value="true" />
+    <property name="$PROJECT_DIR$/src/Antlr/MyParser.g4::/gen-listener" value="false" />
+    <property name="$PROJECT_DIR$/src/Antlr/MyParser.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/Antlr/MyParser.g4::/language" value="Java" />
+    <property name="$PROJECT_DIR$/src/Antlr/MyParser.g4::/output-dir" value="C:\Users\sergioaleman\Desktop\2018\compi\proyecto2\MonkeySergioGenesis\src" />
+    <property name="$PROJECT_DIR$/src/Antlr/MyParser.g4::/package" value="generated" />
+    <property name="$PROJECT_DIR$/src/Antlr/Scanner.g4::/auto-gen" value="true" />
+    <property name="$PROJECT_DIR$/src/Antlr/Scanner.g4::/gen-listener" value="false" />
+    <property name="$PROJECT_DIR$/src/Antlr/Scanner.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/Antlr/Scanner.g4::/language" value="Java" />
+    <property name="$PROJECT_DIR$/src/Antlr/Scanner.g4::/output-dir" value="C:\Users\sergioaleman\Desktop\2018\compi\proyecto2\MonkeySergioGenesis\src" />
+    <property name="$PROJECT_DIR$/src/Antlr/Scanner.g4::/package" value="generated" />
+    <property name="$PROJECT_DIR$/src/MyParser.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/MyParser.g4::/gen-listener" value="false" />
+    <property name="$PROJECT_DIR$/src/MyParser.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/MyParser.g4::/language" value="Java" />
+    <property name="$PROJECT_DIR$/src/MyParser.g4::/output-dir" value="C:\Users\Arrieta\IdeaProjects\MiniPython\src\Modelo" />
+    <property name="$PROJECT_DIR$/src/Scanner.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/Scanner.g4::/gen-listener" value="false" />
+    <property name="$PROJECT_DIR$/src/Scanner.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/Scanner.g4::/language" value="Java" />
+    <property name="$PROJECT_DIR$/src/Scanner.g4::/output-dir" value="C:\Users\Arrieta\IdeaProjects\MiniPython\src\Modelo" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="313" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="355" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arrieta\IdeaProjects\MiniPython\src\Antlr" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Modelo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exeptions" />
+      <recent name="Vista" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\f1419\Documents\TEC\Compiladores e Interpretes\proyecto\MiniPython\src\Imagenes" />
+      <recent name="C:\Users\Arrieta\IdeaProjects\MiniPython\src\generated" />
+      <recent name="C:\Users\Arrieta\IdeaProjects\MiniPython\src\Vista" />
+      <recent name="C:\Users\Arrieta\IdeaProjects\MiniPython\src" />
+      <recent name="C:\Users\Arrieta\IdeaProjects\MiniPython\src\Antlr" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Vista.Principal" />
+      <module name="MonkeyGS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vista.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="MiniPython" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5cf57ff-7a85-45ce-a67c-fd8d2d70d2e3" name="Default" comment="" />
+      <created>1490552699256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490552699256</updated>
+      <workItem from="1490552702953" duration="5151000" />
+      <workItem from="1490560799543" duration="8559000" />
+      <workItem from="1490569932753" duration="5601000" />
+      <workItem from="1490579359098" duration="4405000" />
+      <workItem from="1490642161833" duration="499000" />
+      <workItem from="1490650968206" duration="1729000" />
+      <workItem from="1490654099858" duration="6168000" />
+      <workItem from="1490665245463" duration="3046000" />
+      <workItem from="1490669211847" duration="2000" />
+      <workItem from="1490706192929" duration="6394000" />
+      <workItem from="1490731606385" duration="395000" />
+      <workItem from="1490743028919" duration="11828000" />
+      <workItem from="1490802335053" duration="1549000" />
+      <workItem from="1490813049552" duration="11321000" />
+      <workItem from="1490826880549" duration="15191000" />
+      <workItem from="1490882875816" duration="43000" />
+      <workItem from="1490895086197" duration="11707000" />
+      <workItem from="1490910131624" duration="889000" />
+      <workItem from="1490917568030" duration="7289000" />
+      <workItem from="1490927049683" duration="3554000" />
+      <workItem from="1490972383244" duration="1660000" />
+      <workItem from="1491006067189" duration="1889000" />
+      <workItem from="1491009391654" duration="87000" />
+      <workItem from="1527381195195" duration="281000" />
+      <workItem from="1527381523079" duration="4766000" />
+      <workItem from="1527439201672" duration="37783000" />
+      <workItem from="1527524088108" duration="2699000" />
+      <workItem from="1527546379047" duration="18647000" />
+      <workItem from="1527646670109" duration="1027000" />
+      <workItem from="1527661381095" duration="1876000" />
+      <workItem from="1527711866058" duration="34338000" />
+      <workItem from="1527779988158" duration="8373000" />
+      <workItem from="1527817663366" duration="13547000" />
+      <workItem from="1527897533086" duration="14583000" />
+      <workItem from="1527951876793" duration="28792000" />
+      <workItem from="1528081404519" duration="2752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="278420000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32884902" />
+      <window_info anchor="bottom" id="Tool Output" order="7" weight="0.3296" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32817337" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32352942" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3296" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.18003026" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="9" weight="0.2288" />
+      <window_info id="Structure" order="1" sideWeight="0.5007474" side_tool="true" weight="0.16983895" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4022082" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3290469" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Nl-Palette" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3213752" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3296" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Tool Output" order="7" weight="0.3296" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32884902" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2510981" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info id="Nl-Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="10" weight="0.2288" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3290469" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4022082" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="42" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/generated/MyExeption.java" />
+    <entry file="file://$PROJECT_DIR$/src/generated/DenterHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/generated/Scanner.tokens">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/MyParser.tokens">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/PrettyPrint.java" />
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-runtime-4.6.jar!/org/antlr/v4/runtime/tree/ParseTreeVisitor.class" />
+    <entry file="file://$PROJECT_DIR$/src/generated/PrettyPrint.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java" />
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-runtime-4.6.jar!/org/antlr/v4/runtime/CommonToken.class" />
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-runtime-4.6.jar!/org/antlr/v4/runtime/tree/TerminalNodeImpl.class" />
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-runtime-4.6.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.class" />
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-runtime-4.6.jar!/org/antlr/v4/runtime/ParserRuleContext.class" />
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-runtime-4.6.jar!/org/antlr/v4/runtime/Lexer.class" />
+    <entry file="file://$PROJECT_DIR$/src/generated/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Archivos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/FiltroArchivo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/BufferedTokenStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/TabPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/MyParserVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-952">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/javax/json/JsonException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/javax/json/JsonArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/BaseErrorListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/ConsoleErrorListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/DefaultErrorStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/AbstractButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modelo/MyTreeCellRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/TreeView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/Librerias/antlr-4.7.1-complete.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/TreeVisitorNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12699">
+          <caret line="756" column="1" selection-start-line="756" selection-start-column="1" selection-end-line="756" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/TreeView.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Future.java" />
+    <entry file="file://$PROJECT_DIR$/src/Exeptions/MyConsoleErrorL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exeptions/MyExeption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="76" column="90" selection-start-line="76" selection-start-column="90" selection-end-line="76" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/MyParserBaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1112">
+          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exeptions/MyBaseErrorL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/MyParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Antlr/Scanner.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/Hash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/JList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="279" column="13" selection-start-line="279" selection-start-column="13" selection-end-line="279" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checker/SymTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1009">
+          <caret line="131" column="13" lean-forward="true" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checker/Checker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="445" column="48" selection-start-line="445" selection-start-column="48" selection-end-line="445" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/EvaluationStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Antlr/MyParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/Principal.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/DataStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="369" column="76" selection-start-line="369" selection-start-column="76" selection-end-line="369" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2104#2112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interpreter/Interpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="518" column="5" lean-forward="true" selection-start-line="518" selection-start-column="5" selection-end-line="518" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codigo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MonkeyGS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>antlr-runtime-4.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

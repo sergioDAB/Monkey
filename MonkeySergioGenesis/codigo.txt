@@ -1,0 +1,64 @@
+
+
+1. Este ejemplo muestra el uso de condicionales para realizar código. Como se cumple la funcion se asigna a "c" =4*4 y a
+imprimirse se le suma 1. El sistema deberá mostrar un mensaje de "System: 17".
+
+//---------------------------------------------------------------------------------------
+
+let a=4;
+let b=2*2;
+if(a==b){
+    let c=a*b;
+    puts(c+1)
+    } else{
+    pust("no son iguales")
+    };
+
+
+2. Este caso demuestra el funcionamiento de las funciones de arreglos.
+//---------------------------------------------------------------------------------------
+
+let a=[1,2,3,4];
+let b=len(a)+1;
+let r=first(a);
+let t=last(a);
+
+
+
+3. Funciones push y rest dejando como resultado la impresion de [2,3,4]
+//------------------------------------------------------
+
+let a=[1,2];
+push(a,3,4);
+rest(a,1);
+puts(a);
+
+
+
+4. Imprimiendo valores de una lista mediante element acces
+//-----------------------------------------------------------------
+
+let b=[1,2,3,4,5,["hola"]];
+puts(b[2]);
+
+
+
+5. Combinando listas dentro de hash y referenciando por medio de el id y mostrando ambas el mismo resulado.
+//--------------------------------------------------------------------
+
+let a=[1,2];
+let h=[3,4];
+let b={[1,2]:[3,4]};
+let r={a:h};
+puts(b);
+puts(r);
+
+6. Element acces
+//---------------------------------------------------------
+
+let a=456;
+let c={1:2,3:4};
+let b=[1,2,c,4,5,["hola"]];
+
+puts(b[2]); // element acces a una lista
+puts(c[3]); // element acces a un hash
